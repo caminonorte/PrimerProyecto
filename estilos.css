@@ -1,0 +1,30 @@
+
+#cabeceraweb{
+  background-color:#251db3;
+}
+
+#navegadorprincipal{
+  background-color:#0e3eaa;
+}
+
+#barralateral{
+  background-color:#0eaa27;
+  float:left;
+  height:200px;
+}
+
+#contenidoprincipal{
+  background-color:#aa0e25;
+  margin-left: 200px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom:20px;
+}
+
+#pieprincipal{
+  background-color:#b8a714;
+}
+li{
+  background-color:#d5f02e;
+  display:inline;
+}
